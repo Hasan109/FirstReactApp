@@ -1,0 +1,21 @@
+.elprize_video{
+    width: 100%;
+    height: 500px; 
+    position: relative;
+    top: 246px;
+  }
+  .video{
+    width: 100%; 
+    height: 0; 
+    position: relative; 
+    padding-bottom: 56.25%;
+  }
+  
+  .video iframe {
+    width: 100%; 
+    height: 500px; 
+    position: absolute; 
+    top: 0; left: 0; 
+    margin: 0 auto;
+  }
+  
